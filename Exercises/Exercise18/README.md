@@ -1,4 +1,4 @@
-*EXERCISE 18
+# EXERCISE 18
 
 Write a program that asks the user to type the value of N and writes this picture :
 
